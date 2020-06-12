@@ -12,7 +12,7 @@ So that I can organize and plan my business
 
 ## Repository:
 
-https://github.com/
+https://github.com/dasloinc/Employee-Tracker
 
 ## Requirements:
 
@@ -33,7 +33,7 @@ NPM will be required to install the necessary packages to run the application.
 
 In your terminal run the following commands one at a time:
 
-git clone https://github.com/
+git clone https://github.com/dasloinc/Employee-Tracker
 
 cd Employee-Tracker
 
